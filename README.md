@@ -9,8 +9,8 @@ I am interested in:
 - Video games
 
 I have experience in:
-- Python ( 1 years)
+- Python (1 year)
 - C++ (2 years)
-
+-Java (1 year)
 
 I am available for hire. Contact me if you have an interesting opportunity :)
