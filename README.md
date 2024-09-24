@@ -19,7 +19,7 @@ I have experience in:
 My projects!
 <table>
 <tr>
-    <td>Project 1</td>
+    <td>[Progect 1](https://github.com/efane4m/TGBot)</td>
     <td>Project 2</td>
 </tr>
 <tr>
