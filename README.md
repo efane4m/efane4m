@@ -13,4 +13,5 @@
             <td></td>
         </tr>
     </table>
+    <img src="chart.png" alt="Chart Image" align="center">
 </div>
