@@ -1,10 +1,8 @@
 <!-- <div align="center" style="background-image: url('https://pic.longtao.fun/pics/24/8712160154167691113610916885165716016931_gopic_.gif'); background-size: cover; background-position: center; padding: 20px;"> --!>
     <h3 align="center">Hi, I'm Vladimir</a></h3>
-    <p align="center">
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_RU.md"><span>Русский</span></a>
-    </p>
     <p align="center">✨ Welcome to my little space in the world of coding! ✨</p>
-    <h4 align="left">My Open Source Projects:</h4>
+    <h5 align="left">I'm student 3 curs RTU MIREA. I'm learning C++, Python, Kotlin, Java</h5>
+    <h4 align="left">My Projects:</h4>
     <table align="center">
         <tr>
             <td><a href="https://github.com/efane4m/SiteCard">SiteCard</a> - my personal website</td>
