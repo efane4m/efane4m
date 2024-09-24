@@ -11,8 +11,8 @@
             <td><a href="https://github.com/efane4m/ScheduleBot">ScheduleBot</a> - bot for getting a school schedule</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/P1trusHka/Shooter">Shooter</a> - A simple cross-platform game in Python</td>
-            <td><a href="https://github.com/P1trusHka/Music-player">Music-player</a> - A music player with many features</td>
+            <td><a href="https://github.com/efane4m/CrossRoad">CrossRoad</a> - A platform for creating open discussions</td>
+            <td></td>
         </tr>
     </table>
 </div>
