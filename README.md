@@ -7,7 +7,7 @@
     <h4 align="left">My Open Source Projects:</h4>
     <table align="center">
         <tr>
-            <td><a href="https://github.com/efane4m/MySiteCard">SiteCard</a> - my personal website</td>
+            <td><a href="https://github.com/efane4m/SiteCard">SiteCard</a> - my personal website</td>
             <td><a href="https://github.com/P1trusHka/Labyrinth-of-the-Minotaur">Labyrinth-of-the-Minotaur</a> - Text-game</td>
         </tr>
         <tr>
