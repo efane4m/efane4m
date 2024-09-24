@@ -8,7 +8,7 @@
     <table align="center">
         <tr>
             <td><a href="https://github.com/efane4m/SiteCard">SiteCard</a> - my personal website</td>
-            <td><a href="https://github.com/P1trusHka/Labyrinth-of-the-Minotaur">Labyrinth-of-the-Minotaur</a> - Text-game</td>
+            <td><a href="https://github.com/efane4m/ScheduleBot">ScheduleBot</a> - bot for getting a school schedule</td>
         </tr>
         <tr>
             <td><a href="https://github.com/P1trusHka/Shooter">Shooter</a> - A simple cross-platform game in Python</td>
