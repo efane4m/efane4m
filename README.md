@@ -1,7 +1,7 @@
 <!-- <div align="center" style="background-image: url('https://pic.longtao.fun/pics/24/8712160154167691113610916885165716016931_gopic_.gif'); background-size: cover; background-position: center; padding: 20px;"> --!>
     <h3 align="center">Hi, I'm Vladimir</a></h3>
-    <p align="center">✨ Welcome to my little space in the world of coding! ✨</p>
-    <h5 align="left">I'm student 3 curs RTU MIREA. I'm learning C++, Python, Kotlin, Java</h5>
+    <p align="center">✨ Welcome to my GitHub! ✨</p>
+    <p align="center">Discover my projects and coding journey!</p>
     <h4 align="left">My Projects:</h4>
     <table align="center">
         <tr>
