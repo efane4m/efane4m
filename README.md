@@ -9,7 +9,7 @@
             <td><a href="https://github.com/efane4m/ScheduleBot">ScheduleBot</a> - bot for getting a school schedule</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/efane4m/CrossRoad">CrossRoad</a> - A platform for creating open discussions</td>
+            <td><a href="https://github.com/P1trusHka/CrossRoad">CrossRoad</a> - A platform for creating open discussions</td>
             <td></td>
         </tr>
     </table>
