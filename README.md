@@ -9,8 +9,8 @@
             <td><a href="https://github.com/efane4m/ScheduleBot">ScheduleBot</a> - bot for getting a schedule</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/P1trusHka/CrossRoad">CrossRoad</a> - A platform for creating open discussions</td>
-            <td></td>
+            <td><a href="https://github.com/P1trusHka/CrossRoad">CrossRoad</a> - platform for creating open discussions</td>
+            <td><a href="https://github.com/efane4m/ControlBot">ControlBot</a> - bot for control computer</td>
         </tr>
     </table>
     <img src="chart.png" alt="Chart Image" align="center">
