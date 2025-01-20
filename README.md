@@ -13,7 +13,7 @@
             <td><a href="https://github.com/efane4m/ControlBot">ControlBot</a> - bot for control computer</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/P1trusHka/todobot">todobot</a> - bot for create task list</td>
+            <td><a href="https://github.com/efane4m/todobot">todobot</a> - bot for create task list</td>
             <td></td>
         </tr>
     </table>
