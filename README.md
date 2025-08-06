@@ -5,16 +5,8 @@
     <h4 align="left">My Projects:</h4>
     <table align="center">
         <tr>
-            <td><a href="https://github.com/efane4m/SiteCard">SiteCard</a> - my personal website</td>
             <td><a href="https://github.com/efane4m/ScheduleBot">ScheduleBot</a> - bot for getting a schedule</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/P1trusHka/CrossRoad">CrossRoad</a> - platform for creating open discussions</td>
-            <td><a href="https://github.com/efane4m/ControlBot">ControlBot</a> - bot for control computer</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/efane4m/todobot">todobot</a> - bot for create task list</td>
-            <td></td>
+            <td><a href="https://github.com/efane4m/CatSite">CatSite</a> - website with information about different breeds of cats</td>
         </tr>
     </table>
     <img src="chart.png" alt="Chart Image" align="center">
